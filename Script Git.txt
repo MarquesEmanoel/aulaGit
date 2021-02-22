@@ -33,5 +33,18 @@
 	-> 
 
 - Comandos básicos
-	->
-	->
+	-> git init criar repositórios
+	-> git add para adicionar um arquivo ao índice
+	-> git clone para copiar um repositório
+	-> git commit -m Para confirmar as alterações no header
+	-> git status para exibir uma lista de arquivos alterador 
+	-> git push envia as alterações feitas para o ramo pincipal
+	-> git remote -v permite que um usuário se conecte a um repositório remoto
+	-> git branch lista, criar ou excluir ramos
+		-> git branch -d para excluir ramo
+	-> git pull para mesclar todas as alterações rpesentes no repositório remoto para o diretório de trabalho
+	-> git merge é usado para mesclar uma ramificação no ramo ativo
+	-> git diff é usado apra listar os conflitos para visualizar conflitos com o arquivos base
+	-> git log exibe uma lista de dados sobre o repositório
+	-> git reset para redefinir o índice e o diretório de trabalho para o estado do útimo commit
+	-> git rm usado para remover arquivos do diretório
